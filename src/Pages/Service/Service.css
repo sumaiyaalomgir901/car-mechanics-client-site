@@ -1,0 +1,27 @@
+.service {
+  display: flex;
+}
+.service img {
+  width: 300px;
+}
+.detail {
+  text-align: left;
+  padding: 20px 15px;
+}
+@media screen and (max-width: 667px) {
+  .service {
+    display: block;
+    padding-top: 15px;
+  }
+  .service img {
+    width: 50%;
+  }
+  .detail {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 575px) {
+  .service img {
+    width: 70%;
+  }
+}

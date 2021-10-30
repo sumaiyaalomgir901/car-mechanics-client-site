@@ -1,0 +1,19 @@
+.header {
+  background-color: rgb(134, 208, 243);
+  padding: 20px 0px;
+}
+.contain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+.menu-item {
+  padding: 8px 15px;
+  display: inline-block;
+  margin: 0px 5px;
+  border-bottom: 3px solid transparent;
+}
+.menu-item:hover {
+  border-bottom: 3px solid black;
+}

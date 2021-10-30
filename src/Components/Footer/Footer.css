@@ -1,0 +1,26 @@
+.footer {
+  background-color: rgb(134, 208, 243);
+}
+.top-footer {
+  width: 90%;
+  margin: 50px auto 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  text-align: left;
+}
+.mid p {
+  margin: 5px 0px;
+  text-align: left;
+}
+.right {
+  text-align: left;
+}
+.footer-menu-item {
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  color: black;
+}
+/* gainsboro */

@@ -1,0 +1,30 @@
+.form {
+  width: 30%;
+  margin: auto;
+  text-align: left;
+}
+.form-control {
+  background-color: rgb(211, 236, 252);
+}
+/* ========================================= */
+@media screen and (max-width: 991px) {
+  .form {
+    width: 40%;
+    margin: auto;
+    text-align: left;
+  }
+}
+@media screen and (max-width: 767px) {
+  .form {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+  }
+}
+@media screen and (max-width: 575px) {
+  .form {
+    width: 90%;
+    margin: auto;
+    text-align: left;
+  }
+}

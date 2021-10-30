@@ -1,0 +1,14 @@
+form {
+  width: 50%;
+}
+
+@media screen and (max-width: 767px) {
+  form {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 575px) {
+  form {
+    width: 90%;
+  }
+}

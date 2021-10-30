@@ -1,0 +1,13 @@
+.single-services {
+  width: 90%;
+  margin: 30px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.single-services-image img {
+  width: 70%;
+}
+.single-services-details {
+  width: 90%;
+  margin: 30px auto;
+}
